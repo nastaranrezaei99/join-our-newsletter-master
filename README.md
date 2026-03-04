@@ -1,22 +1,22 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">join our newsletter master | devChallenges</h1>
+<h1 align="center">Join Our Newsletter | devChallenges</h1>
 
 <div align="center">
-   Solution for a challenge <a href="https://devchallenges.io/challenge/join-our-newsletter" target="_blank">Join Our Newsletter</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+  Solution for a challenge <a href="https://devchallenges.io/challenge/join-our-newsletter" target="_blank">Join Our Newsletter</a> from <a href="https://devchallenges.io" target="_blank">devChallenges</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://nastaranrezaei99.github.io/join-our-newsletter-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/nastaranrezaei99/join-our-newsletter-master">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenge/join-our-newsletter">
+    <a href="https://devchallenges.io/challenge/join-our-newsletter" target="_blank">
       Challenge
     </a>
   </h3>
@@ -27,60 +27,47 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-- [Built with](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
-- [Contact](#contact)
+- [How To Run](#how-to-run)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+This project is my solution for the **Join Our Newsletter** challenge on devChallenges.
 
-<!--
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+- Centered newsletter layout with a clean subscription card
+- Styled input and button
+- Responsive spacing and typography close to the provided design
 
-- What have you learned/improved?
-- Your wisdom? :)
--->
+### Screenshot
+<img width="1690" height="887" alt="image" src="https://github.com/user-attachments/assets/a6d64a1b-c774-443c-8ab5-131d5c26e799" />
 
-### What I learned
 
-<!-- Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge. -->
+## Built With
 
-### Useful resources
-
-<!--
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
--->
-
-### Built with
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML5
+- CSS3 (Flexbox)
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+- Centered layout using Flexbox
+- Consistent spacing using `gap`
+- Form styling (input, placeholder, button)
+- Card UI with border-radius and box-shadow
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
+## How To Run
 
-## Acknowledgements
+To run this project locally:
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+```bash
+# 1) Clone the repository
+git clone https://github.com/nastaranrezaei99/join-our-newsletter-master.git
 
-## Author
+# 2) Open the folder
+cd join-our-newsletter-master
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+# 3) Open index.html in your browser
